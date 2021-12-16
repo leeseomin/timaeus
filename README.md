@@ -22,6 +22,14 @@
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/5.png" width="2000">    
 
   <br/>  <br/> 
+
+
+### Timaeus 6
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/6c.png" width="2000">    
+
+  <br/>  <br/> 
+  
   
 
 ### Timaeus 7

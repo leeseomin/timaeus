@@ -32,7 +32,13 @@
   
   
   
+### Timaeus 8
 
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/8.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
 
 
  ### Author and Creator

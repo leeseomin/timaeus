@@ -59,12 +59,6 @@
   
   
   
-### Timaeus 15
-
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/15.png" width="2000">    
-
-  <br/>  <br/> 
-  
 ### Timaeus 16
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/16.png" width="2000">    

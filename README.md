@@ -3,7 +3,7 @@
 
 ### timaeus 1
 
-<img src="https://github.com/leeseomin/Will_to_live/blob/main/ART/13.png" width="2000">    
+<img src="https://github.com/leeseomin/timaeus/blob/main/ART/2h.png" width="2000">    
 
   <br/>  <br/> 
   

@@ -1,7 +1,7 @@
 # Timaeus : speculation on the modern beauty
 
 
-### timaeus 1
+### timaeus 2
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/2x.png" width="2000">    
 

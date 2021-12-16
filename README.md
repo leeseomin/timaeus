@@ -1,13 +1,18 @@
 # Timaeus : speculation on the modern beauty
 
 
-### timaeus 2
+### Timaeus 2
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/2x.png" width="2000">    
 
   <br/>  <br/> 
   
   
+### Timaeus 3
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/3h.png" width="2000">    
+
+  <br/>  <br/> 
   
   
   

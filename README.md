@@ -44,6 +44,13 @@
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/10.png" width="2000">    
 
   <br/>  <br/> 
+
+### Timaeus 11
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/11.png" width="2000">    
+
+  <br/>  <br/> 
+  
   
   
   

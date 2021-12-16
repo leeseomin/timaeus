@@ -32,6 +32,14 @@
   <br/>  <br/> 
   
   
+### Timaeus 1-
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/10.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
+  
 ### Timaeus 15
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/15.png" width="2000">    

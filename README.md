@@ -82,6 +82,12 @@
 
   <br/>  <br/> 
   
+### Timaeus 20
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/20h.png" width="2000">    
+
+  <br/>  <br/> 
+  
   
   
   

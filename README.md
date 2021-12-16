@@ -73,11 +73,7 @@
 
   <br/>  <br/> 
   
-### Timaeus 18
 
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/18x.png" width="2000">    
-
-  <br/>  <br/> 
   
   
 ### Timaeus 19

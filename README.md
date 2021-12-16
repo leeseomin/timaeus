@@ -1,9 +1,11 @@
 # Timaeus : speculation on the modern beauty
 
 
+
+
 ### Timaeus 2
 
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/2x.png" width="2000">    
+
 
   <br/>  <br/> 
   
@@ -22,6 +24,8 @@
   <br/>  <br/> 
   
 
+
+
  ### Author and Creator
  
  LEE SEOMIN
@@ -30,3 +34,10 @@
   <br/> 
  https://twitter.com/Techne_0_1
  
+ 
+
+#### Description 
+
+It was created through the following my algorithms. 
+
+https://github.com/leeseomin/collection 

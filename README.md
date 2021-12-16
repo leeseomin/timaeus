@@ -40,7 +40,7 @@
   
 ### Timaeus 9
 
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/9.png" width="2000">    
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/9x.png" width="2000">    
 
   <br/>  <br/> 
 

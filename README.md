@@ -1,4 +1,4 @@
-# Timaeus : speculation on the beauty
+# Timaeus : speculation on the modern beauty
 
 
 ### timaeus 1

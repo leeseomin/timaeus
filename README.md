@@ -2,13 +2,6 @@
 
 
 
-
-### Timaeus 2
-
-
-
-  <br/>  <br/> 
-  
   
 ### Timaeus 3
 
@@ -39,7 +32,14 @@
   <br/>  <br/> 
   
   
+### Timaeus 15
 
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/15.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
+  
 
  ### Author and Creator
  

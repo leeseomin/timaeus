@@ -26,7 +26,7 @@
 
 ### Timaeus 7
 
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/7h.png" width="2000">    
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/7x.png" width="2000">    
 
   <br/>  <br/> 
   

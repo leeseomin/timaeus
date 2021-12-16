@@ -80,6 +80,13 @@
   <br/>  <br/> 
   
   
+### Timaeus 19
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/19.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
   
   
 

@@ -1,6 +1,14 @@
 # Timaeus : speculation on the modern beauty
 <br/> 
 
+### Timaeus 1
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/1.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
+
 ### Timaeus 2
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/2.png" width="2000">    

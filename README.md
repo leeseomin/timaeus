@@ -3,7 +3,7 @@
 
 
 ### You can purchase these artworks from the following NFT marketplace
-<br/> 
+
 https://rarible.com/timaeus
  <br/>  <br/> 
 

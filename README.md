@@ -1,5 +1,10 @@
 # Timaeus : speculation on the modern beauty
 <br/> 
+You can purchase these artworks 
+<br/> 
+https://rarible.com/timaeus
+ <br/>  <br/> 
+
 
 ### Timaeus 1
 

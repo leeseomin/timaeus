@@ -1,4 +1,4 @@
-# ** **Timaeus : speculation on the modern beauty
+### ** **Timaeus : speculation on the modern beauty
 <br/> 
 
 :o: Void and Discontinuity

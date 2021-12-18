@@ -1,6 +1,7 @@
 # Timaeus : speculation on the modern beauty
 <br/> 
 
+:o: Void and Discontinuity
 
 ### You can purchase these artworks from the following NFT marketplace
 

@@ -1,4 +1,4 @@
-### Timaeus : speculation on the modern beauty :red_circle: :art:
+### Timaeus : speculation on the modern beauty :red_circle: :heavy_multiplication_x: :art:
 <br/> 
 
 :o: Void and Discontinuity

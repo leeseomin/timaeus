@@ -3,7 +3,7 @@
 
 :o: Void and Discontinuity
 
-### You can purchase these artworks from the following NFT marketplace
+### You can purchase these artworks from the following NFT marketplace :point_down:
 
 https://rarible.com/timaeus
  <br/>  <br/> 

@@ -146,7 +146,13 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 
   <br/>  <br/> 
   
-    
+### Timaeus 33
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/33h.png" width="2000">    
+
+  <br/>  <br/> 
+  
+  
   
 
  ### Author and Creator

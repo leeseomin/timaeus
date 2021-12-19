@@ -186,6 +186,18 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/37h.png" width="2000">    
 
   <br/>  <br/>   
+
+### Timaeus 40
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/40h.png" width="2000">    
+
+  <br/>  <br/>   
+  
+### Timaeus 41
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/41h.png" width="2000">    
+
+  <br/>  <br/>     
   
   
 

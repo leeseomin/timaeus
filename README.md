@@ -203,4 +203,8 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 
 It was created with the following my algorithms. 
 
-https://github.com/leeseomin/collection 
+https://github.com/leeseomin/arte10 
+
+https://github.com/leeseomin/arte42 
+
+https://github.com/leeseomin/arte45

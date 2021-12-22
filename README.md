@@ -209,7 +209,7 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 
 ### Timaeus 48
 
-<img src="https://github.com/leeseomin/timaeus/blob/main/art/48.png" width="2000">    
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/48a.png" width="2000">    
 
   <br/>  <br/>    
   

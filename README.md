@@ -267,7 +267,14 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/53h.png" width="2000">    
 
   <br/>  <br/>  
-  
+
+### Timaeus 54
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/54h.png" width="2000">    
+
+  <br/>  <br/>  
+
+
 ### Timaeus 57
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/57.png" width="2000">    

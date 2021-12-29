@@ -324,7 +324,7 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4499
 
 ### Description 
 
-It was created with the following my algorithms. 
+It was created with the following my algorithms and  intuition 
 
 https://github.com/leeseomin/arte10 
 

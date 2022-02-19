@@ -33,6 +33,13 @@ https://rarible.com/timaeus
   <br/>  <br/> 
   
   
+### Timaeus 4
+
+<img src="https://github.com/leeseomin/timaeus/blob/main/art/4c.png" width="2000">    
+
+  <br/>  <br/>
+  
+  
 ### Timaeus 5
 
 <img src="https://github.com/leeseomin/timaeus/blob/main/art/5.png" width="2000">    
